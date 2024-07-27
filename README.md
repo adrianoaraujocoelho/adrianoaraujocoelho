@@ -10,7 +10,6 @@ sou apaixonado por Tecnologia da Informação, com ampla experiência no gerenci
 <img height="26" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;
 <img height="26" title="Jest" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
 <img height="26" title="SQL Server" alt="SQL Server" src="https://img.icons8.com/color/480/microsoft-sql-server.png"> &nbsp;
-<img height="26" title="CosmosDB" alt="CosmosDB" src="https://linkurious.com/assets/uploads/2022/02/image-4.png">&nbsp;
 <img height="26" title="Express" alt="Express" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzone.com%2Fstorage%2Ftemp%2F8229324-expressjs-logo.png&f=1&nofb=1">&nbsp;
 
 ####  <kbd>Front-end:</kbd><br>
@@ -19,12 +18,10 @@ sou apaixonado por Tecnologia da Informação, com ampla experiência no gerenci
 <img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="26" title="React / React Native" alt="React / React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 
-
 #### <kbd>Cloud:</kbd><br>
 <img height="26" title="Azure Functions" alt="Azure Functions" src="https://mattruma.com/wp-content/uploads/2020/04/AzureFunctions.png"> &nbsp;
 <img height="26" title="Azure" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> &nbsp;
 <img height="26" title="Azure Devops" alt="Azure Devops" src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png"> &nbsp;
-
 
 #### <kbd>Ferramentas:</kbd><br>
 <img height="26" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;
